@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://meghnakaushik:Gampbvk5@javatut1.djniq2i.mongodb.net/?retryWrites=true&w=majority&appName=Javatut1
+      database: Employee
